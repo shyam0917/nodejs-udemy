@@ -1,0 +1,5 @@
+/node_modules
+/angular-cli/node_modules
+/angular-cli/dist
+/dist
+/public
